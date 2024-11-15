@@ -11,7 +11,7 @@
 
 <h2>Model Architecture</h2>
 <ul style="font-size:20px">
-  <li>FrameWork: PtTorch</li>
+  <li>FrameWork: PyTorch</li>
   <li>Model Description: I made two version of a simple fully connected neural network.
        <ul style="font-size:18px">
           <li>EuroSatV0
@@ -19,7 +19,7 @@
               <ul>
                   <li>Input Layer
                      <ul>
-                       <li>Input Shape:<p>Flattened input vector from the image(64x64x3=12288)</p></li>
+                       <li>Input Shape: Flattened input vector from the image(64x64x3=12288).</li>
                      </ul>
                   </li>
                   <li>Hidden Layer
